@@ -1,0 +1,164 @@
+nav {
+    background-color: #18402D;
+    width: 98.98%;
+    height: 100px;
+    text-align: center;
+    font-size: 200%;
+    position: fixed;
+}
+
+.logo_image {
+    width: 100px;
+    height: 50px;
+    float:left;
+}
+
+.game_dev_plan {
+    width: 10%;
+    height: 20px;
+    text-align: center;
+    border: 2px solid rgb(15, 71, 242);
+    font-size: 30%;
+    margin-left: 10%;
+    margin-top: 2%;
+    font-size: 50%;
+    color: aliceblue;
+    float:left;
+}
+
+header {
+    height: 100px;
+    width: 100%;
+}
+
+.game_news {
+    width: 10%;
+    height: 20px;
+    text-align: center;
+    border: 2px solid rgb(15, 71, 242);
+    font-size: 30%;
+    margin-left: 2%;
+    margin-top: 2%;
+    font-size: 50%;
+    color: aliceblue;
+    float:left;
+}
+
+.research {
+    width: 10%;
+    height: 20px;
+    text-align: center;
+    border: 2px solid rgb(15, 71, 242);
+    font-size: 30%;
+    margin-left: 2%;
+    margin-top: 2%;
+    font-size: 50%;
+    color: aliceblue;
+    float:left;
+}
+
+.about {
+    width: 10%;
+    height: 20px;
+    text-align: center;
+    border: 2px solid rgb(15, 71, 242);
+    font-size: 30%;
+    margin-left: 2%;
+    margin-top: 2%;
+    font-size: 50%;
+    color: aliceblue;
+    float:left;
+}
+
+.game_insperation {
+    width: 10%;
+    height: 20px;
+    text-align: center;
+    border: 2px solid rgb(15, 71, 242);
+    font-size: 30%;
+    margin-left: 2%;
+    margin-top: 2%;
+    font-size: 50%;
+    color: aliceblue;
+    float:left;
+}
+
+.game_requirements {
+    width: 10%;
+    height: 20px;
+    text-align: center;
+    border: 2px solid rgb(15, 71, 242);
+    font-size: 30%;
+    margin-left: 2%;
+    margin-top: 2%;
+    font-size: 50%;
+    color: aliceblue;
+    float:left;
+}
+
+.container{
+    width: 100%;
+    height: 600px;
+    text-align: center;
+    background-color: #101E26;
+    float:left;   
+}
+
+.mediaboxmain {
+    width: 100%;
+    height: 230px;
+    float:left;
+    background-color: #102617; 
+    margin-top: 4%; 
+}
+
+.box1{
+    width: 20%;
+    height: 200px;
+    margin-top: 1%;
+    margin-left: 2%;
+    float:left;
+    background-color: #18402D; 
+    color: aliceblue;
+}
+
+.box2{
+    width: 20%;
+    height: 200px;
+    margin-top: 1%;
+    margin-left: 4%;
+    float:left;
+    background-color: #18402D; 
+    color: aliceblue;
+}
+
+.box3{
+    width: 20%;
+    height: 200px;
+    margin-top: 1%;
+    margin-left: 8%;
+    float:left;
+    background-color: #18402D; 
+    color: aliceblue;
+}
+
+.box4{
+    width: 20%;
+    height: 200px;
+    margin-top: 1%;
+    margin-left: 4%;
+    float:left;
+    background-color: #18402D;
+    color: aliceblue;
+}
+
+footer {
+    width: 100%;
+    height: 20px;
+    text-align: center;
+    background-color: #18402D;
+    color: aliceblue;
+    float:left;
+}
+
+
