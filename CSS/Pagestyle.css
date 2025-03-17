@@ -1,0 +1,312 @@
+nav {
+    background-color: #18402D;
+    width: 98.98%;
+    height: 100px;
+    text-align: center;
+    font-size: 200%;
+    position: fixed;
+}
+
+.logo_image {
+    width: 100px;
+    height: 50px;
+    font-size: medium;
+    float:left;
+}
+
+.game_dev_plan {
+    width: 10%;
+    height: 20px;
+    text-align: center;
+    border: 2px solid rgb(15, 71, 242);
+    font-size: 30%;
+    margin-left: 10%;
+    margin-top: 2%;
+    font-size: 50%;
+    color: aliceblue;
+    float:left;
+}
+
+header {
+    height: 100px;
+    width: 100%;
+}
+
+.game_news {
+    width: 10%;
+    height: 20px;
+    text-align: center;
+    border: 2px solid rgb(15, 71, 242);
+    font-size: 30%;
+    margin-left: 2%;
+    margin-top: 2%;
+    font-size: 50%;
+    color: aliceblue;
+    float:left;
+}
+
+.research {
+    width: 10%;
+    height: 20px;
+    text-align: center;
+    border: 2px solid rgb(15, 71, 242);
+    font-size: 30%;
+    margin-left: 2%;
+    margin-top: 2%;
+    font-size: 50%;
+    color: aliceblue;
+    float:left;
+}
+
+.about {
+    width: 10%;
+    height: 20px;
+    text-align: center;
+    border: 2px solid rgb(15, 71, 242);
+    font-size: 30%;
+    margin-left: 2%;
+    margin-top: 2%;
+    font-size: 50%;
+    color: aliceblue;
+    float:left;
+}
+
+.game_insperation {
+    width: 10%;
+    height: 20px;
+    text-align: center;
+    border: 2px solid rgb(15, 71, 242);
+    font-size: 30%;
+    margin-left: 2%;
+    margin-top: 2%;
+    font-size: 50%;
+    color: aliceblue;
+    float:left;
+}
+
+.game_requirements {
+    width: 10%;
+    height: 20px;
+    text-align: center;
+    border: 2px solid rgb(15, 71, 242);
+    font-size: 30%;
+    margin-left: 2%;
+    margin-top: 2%;
+    font-size: 50%;
+    color: aliceblue;
+    float:left;
+}
+
+.container{
+    width: 100%;
+    height: 700px;
+    text-align: center;
+    background-color: #101E26;
+    float:left;   
+}
+
+.box1_gdp{
+    width: 20%;
+    height: 200px;
+    margin-top: 22%;
+    margin-left: -21.8%;
+    float:left;
+    background-color: #18402D; 
+    color: aliceblue;
+}
+
+.mediabox1_gdp{
+    width: 24%;
+    height: 300px;
+    margin-top: 1%;
+    float:left;
+    background-color: #18402D; 
+    color: aliceblue;
+}
+
+.box2_gdp{
+    width: 20%;
+    height: 200px;
+    margin-top: 22%;
+    margin-left: -22%;
+    float:left;
+    background-color: #18402D; 
+    color: aliceblue;
+}
+
+.mediabox2_gdp{
+    width: 24%;
+    height: 300px;
+    margin-top: 1%;
+    margin-left: 14%;
+    float:left;
+    background-color: #18402D;
+    color: aliceblue; 
+}
+
+.box3_gdp{
+    width: 20%;
+    height: 200px;
+    margin-top: 22%;
+    margin-left: -21.5%;
+    float:left;
+    background-color: #18402D; 
+    color: aliceblue;
+}
+
+.mediabox3_gdp{
+    width: 24%;
+    height: 300px;
+    margin-top: 1%;
+    margin-left: 14%;
+    float:left;
+    background-color: #18402D; 
+    color: aliceblue;
+}
+
+.box1_about{
+    width: 16%;
+    height: 29px;
+    text-align: center;
+    margin-top: 1%;
+    margin-left: 1%;
+    font-size: 150%;
+    float:left;
+    background-color: #18402D;
+    color: aliceblue; 
+}
+
+.box2_about{
+    width: 98%;
+    height: 500px;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: -16%;
+    float:left;
+    background-color: #18402D;
+    color: aliceblue; 
+}
+
+.box1_gn{
+    width: 74%;
+    height: 325px;
+    text-align: left;
+    font-size: 150%;
+    margin-top: 15%;
+    margin-left: 12%;
+    float:left;
+    background-color: #18402D;
+    color: aliceblue; 
+}
+
+.box1_research{
+    width: 20%;
+    height: 200px;
+    margin-top: 22%;
+    margin-left: -21.8%;
+    float:left;
+    background-color: #18402D;
+    color: aliceblue; 
+}
+
+.mediabox1_research{
+    width: 24%;
+    height: 46%;
+    margin-top: 1%;
+    margin-left: 10%;
+    float:left;
+    background-color: #18402D; 
+    color: aliceblue;
+}
+
+.box2_research{
+    width: 20%;
+    height: 200px;
+    margin-top: 22%;
+    margin-left: -22%;
+    float:left;
+    background-color: #18402D; 
+    color: aliceblue;
+}
+
+.mediabox2_research{
+    width: 24%;
+    height: 46%;
+    margin-top: 1%;
+    margin-left: 4%;
+    float:left;
+    background-color: #18402D; 
+    color: aliceblue;
+}
+
+.box3_research{
+    width: 20%;
+    height: 200px;
+    margin-top: 22%;
+    margin-left: -21.5%;
+    float:left;
+    background-color: #18402D; 
+    color: aliceblue;
+}
+
+.mediabox3_research{
+    width: 24%;
+    height: 46%;
+    margin-top: 1%;
+    margin-left: 4%;
+    float:left;
+    background-color: #18402D; 
+    color: aliceblue;
+}
+
+.box1_gi{
+    width: 74%;
+    height: 325px;
+    text-align: center;
+    font-size: 150%;
+    margin-top: 9.5%;
+    margin-left: 12%;
+    float:left;
+    background-color: #18402D; 
+    color: aliceblue;
+}
+
+.box1_gr{
+    width: 24%;
+    height: 255px;
+    margin-top: 22%;
+    margin-left: -26%;
+    float:left;
+    background-color: #18402D; 
+    color: aliceblue;
+}
+
+.mediabox1_gr{
+    width: 28%;
+    height: 46%;
+    margin-top: 1%;
+    margin-left: 15.5%;
+    float:left;
+    background-color: #18402D; 
+    color: aliceblue;
+}
+
+.box2_gr{
+    width: 24%;
+    height: 240px;
+    margin-top: 22%;
+    margin-left: -26%;
+    float:left;
+    background-color: #18402D; 
+    color: aliceblue;
+}
+
+.mediabox2_gr{
+    width: 28%;
+    height: 46%;
+    margin-top: 1%;
+    margin-left: 15.5%;
+    float:left;
+    background-color: #18402D; 
+    color: aliceblue;
+}
